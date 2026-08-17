@@ -21,3 +21,6 @@ How we well know the goals have been met:
 <img alt="image of screenshots of notes" src="IMG_6447.PNG" width="322" height="691" />
 
 <img alt="image of screenshots of notes" src="IMG_6448.PNG" width="322" height="691" />
+
+Issues:
+Can't edit [courses page](https://learnshiatsu.ie/courses/)
