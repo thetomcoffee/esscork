@@ -16,8 +16,8 @@ How we well know the goals have been met:
 
 <img alt="image of screenshots of notes" src="IMG_6445.PNG" width="322" height="691" />
 
-![image of screenshots of notes](IMG_6446.PNG)
+<img alt="image of screenshots of notes" src="IMG_6446.PNG" width="322" height="691" />
 
-![image of screenshots of notes](IMG_6447.PNG)
+<img alt="image of screenshots of notes" src="IMG_6447.PNG" width="322" height="691" />
 
-![image of screenshots of notes](IMG_6448.PNG)
+<img alt="image of screenshots of notes" src="IMG_6448.PNG" width="322" height="691" />
