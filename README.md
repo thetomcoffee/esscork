@@ -1,1 +1,3 @@
 # European Shiatsu School Cork
+
+For this project we will...
