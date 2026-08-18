@@ -5,8 +5,8 @@ This is a project to improve the website for the
 
 
 ## Goals for the project: 
-### Fix bugs:
-#### To Do
+### Fix bugs
+#### To Do (Priority)
 1. Missing instructor images in Chrome, see below.
 2. Broken link...
 3. Another issue. 
@@ -14,14 +14,18 @@ This is a project to improve the website for the
 5. Update WordPress version
 6. Update plugins. 
 
-### Done:
-1. Update admin email.</u>
+#### Done (Priority):
+1. Update admin email. (0)
 
-### Add new features:
+### Add new features
+#### To Do (Priority)
 1. Add student notes
 2. Divi training
 3. Add SEO and link referrals with other sites? 
 4. Advertise more on FaceBook? Digital/social/apps/website local to West Cork. 
+
+#### Done (Priority)
+1. ...
 
 ## Time table:
 Do what in some many days...
