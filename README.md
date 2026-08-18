@@ -6,14 +6,14 @@ This is a project to improve the website for the
 
 Goals for the project: 
 Fix bugs...
-1. 
-2. 
-3. 
+1. Missing instructor images in Chrome, see below.
+2. Broken link...
+3. Another issue. 
 
 Add new features:
-1. 
-2. 
-3. 
+1. Student Notes...
+2. feature 2
+3. feature 3 
 
 Time table:
 
@@ -27,7 +27,7 @@ Constraints will include:
 Scope of the project... 
 
 
-How we well know the goals have been met:
+How we will know the goals have been met:
 
 <abbr title="user acceptance testing">UAT</abbr> will include...
 
