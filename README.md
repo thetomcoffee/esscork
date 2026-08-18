@@ -53,7 +53,7 @@ New Goal, Feature:
 School, class notes for students that have signed up for a course. Students look them over before class. 
 Possible solution - use Google Drive, Docs to upload files, send link to students to Google Drive. Can also easily update docs in the future. 
 
-Bug on {Teachers page](https://learnshiatsu.ie/teachers/)
+Bug on [Teachers page](https://learnshiatsu.ie/teachers/)
 Images of teachers do not appear on Google Chrome. 
 
 HTML of image in Chrome:
