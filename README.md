@@ -11,8 +11,8 @@ This is a project to improve the website for the
 3. Another issue. 
 
 ### Add new features:
-1. Student Notes...
-2. feature 2
+1. Add student notes
+2. Divi training
 3. feature 3 
 
 ## Time table:
