@@ -12,6 +12,7 @@ This is a project to improve the website for the
 4. Update PHP
 5. Update WordPress version
 6. Update plugins. 
+7. <u>Update admin email.</u>
 
 ### Add new features:
 1. Add student notes
