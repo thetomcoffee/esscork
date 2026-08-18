@@ -4,34 +4,35 @@ This is a project to improve the website for the
 
 
 
-Goals for the project: 
-Fix bugs...
+## Goals for the project: 
+### Fix bugs...
 1. Missing instructor images in Chrome, see below.
 2. Broken link...
 3. Another issue. 
 
-Add new features:
+### Add new features:
 1. Student Notes...
 2. feature 2
 3. feature 3 
 
-Time table:
+## Time table:
 
 
-Deliverables will include...
+## Deliverables will include...
 
 
-Constraints will include: 
+## Constraints will include: 
 * time for the project
 
-Scope of the project... 
+## Scope of the project... 
 
 
-How we will know the goals have been met:
+## How we will know the goals have been met:
 
-<abbr title="user acceptance testing">UAT</abbr> will include...
+## <abbr title="user acceptance testing">UAT</abbr> will include...
 
 
+## Miscellaneous Notes:
 <img alt="image of screenshots of notes" src="IMG_6445.PNG" width="322" height="691" />
 
 <img alt="image of screenshots of notes" src="IMG_6446.PNG" width="322" height="691" />
@@ -40,16 +41,16 @@ How we will know the goals have been met:
 
 <img alt="image of screenshots of notes" src="IMG_6448.PNG" width="322" height="691" />
 
-Issues:
+## Issues:
 Can't edit [courses page](https://learnshiatsu.ie/courses/)
 Top right, home page, image is stale, update and make slide show
 Update the upcoming courses for the website. 
 Update [upcoming courses and workshops](https://learnshiatsu.ie/upcoming-shiatsu-courses-workshops/)
 
-Main Audience for website:
+## Main Audience for website:
 new students, advertise, sign up for courses
 
-New Goal, Feature:
+## New Goal, Feature:
 School, class notes for students that have signed up for a course. Students look them over before class. 
 Possible solution - use Google Drive, Docs to upload files, send link to students to Google Drive. Can also easily update docs in the future. 
 
