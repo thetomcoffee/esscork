@@ -77,5 +77,7 @@ HTML of image in Firefox:
 
 ## Technical contact for website
 URL: [https://smewebdesigner.com/](https://smewebdesigner.com/)
+<br />
 Email: [mailto:km@smewebdesigner.com](mailto:km@smewebdesigner.com) 
+<br />
 Name: Kelley Monks 
