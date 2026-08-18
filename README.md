@@ -67,7 +67,15 @@ HTML of image in Chrome:
 <img decoding="async" width="319" height="319" data-src="https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round.png" alt="" title="SHEENA WOODS Shiatsu Practitioner &amp; Teacher round" data-srcset="https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round.png 319w, https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round-150x150.png 150w, https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round-100x100.png 100w, https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round-250x250.png 250w, https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round-300x300.png 300w" data-sizes="(max-width: 319px) 100vw, 319px" class="wp-image-676 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 319px; --smush-placeholder-aspect-ratio: 319/319;">
 `
 
+
+
 HTML of image in Firefox:
 `
 <img decoding="async" width="319" height="319" data-src="https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round.png" alt="" title="SHEENA WOODS Shiatsu Practitioner &amp; Teacher round" data-srcset="https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round.png 319w, https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round-150x150.png 150w, https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round-100x100.png 100w, https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round-250x250.png 250w, https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round-300x300.png 300w" data-sizes="(max-width: 319px) 100vw, 319px" class="wp-image-676 ls-is-cached lazyloaded" src="https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round.png" style="--smush-placeholder-width: 319px; --smush-placeholder-aspect-ratio: 319/319;" sizes="(max-width: 319px) 100vw, 319px" srcset="https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round.png 319w, https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round-150x150.png 150w, https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round-100x100.png 100w, https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round-250x250.png 250w, https://learnshiatsu.ie/wp-content/uploads/2022/05/SHEENA-WOODS-Shiatsu-Practitioner-Teacher-round-300x300.png 300w">
 `
+
+
+## Technical contact for website
+[URL: ](https://smewebdesigner.com/)
+[Email: ](mailto:km@smewebdesigner.com)
+Name: Kelley Monks 
