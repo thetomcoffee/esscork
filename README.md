@@ -9,6 +9,9 @@ This is a project to improve the website for the
 1. Missing instructor images in Chrome, see below.
 2. Broken link...
 3. Another issue. 
+4. Update PHP
+5. Update WordPress version
+6. Update plugins. 
 
 ### Add new features:
 1. Add student notes
