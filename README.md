@@ -13,7 +13,8 @@ This is a project to improve the website for the
 ### Add new features:
 1. Add student notes
 2. Divi training
-3. feature 3 
+3. Add SEO and link referrals with other sites? 
+4. Advertise more on FaceBook? Digital/social/apps/website local to West Cork. 
 
 ## Time table:
 
