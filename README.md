@@ -17,7 +17,8 @@ This is a project to improve the website for the
 4. Advertise more on FaceBook? Digital/social/apps/website local to West Cork. 
 
 ## Time table:
-
+Do what in some many days...
+What to prioritize? 
 
 ## Deliverables will include...
 
